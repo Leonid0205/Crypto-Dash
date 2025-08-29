@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# This project is build using Vite as the build tool, React, TypeScript, CoinGecko API for fetching data, and React Router for routing.
+
+## Crypto Dash is a simple app that displays live cryptocurrency data using the CoinGecko API.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
